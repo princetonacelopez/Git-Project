@@ -56,10 +56,10 @@
 			children = (
 				463DC0912522F52700357C71 /* Git_ProjectApp.swift */,
 				463DC0932522F52700357C71 /* ContentView.swift */,
+				463DC0A12522F6BA00357C71 /* ModalView.swift */,
 				463DC0952522F52C00357C71 /* Assets.xcassets */,
 				463DC09A2522F52C00357C71 /* Info.plist */,
 				463DC0972522F52C00357C71 /* Preview Content */,
-				463DC0A12522F6BA00357C71 /* ModalView.swift */,
 			);
 			path = "Git Project";
 			sourceTree = "<group>";
